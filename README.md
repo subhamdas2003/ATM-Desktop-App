@@ -1,3 +1,4 @@
+<pre>
 💳 ATM Desktop App (Java Swing)
 A Java-based desktop application that simulates an ATM machine, using a simple graphical user interface built with Java Swing and file-based data storage.
 
@@ -19,7 +20,7 @@ A Java-based desktop application that simulates an ATM machine, using a simple g
 4.Modular structure (separate classes for logic and UI)
 
 🛠️ Project Structure
-<br>
+
 ATM-Desktop-App
 <br/>
 ├── ATMApp.jar            // ✅ Runnable file
@@ -54,4 +55,4 @@ Transactions are saved in transactions.txt automatically.
 🙋 About Me
 👋 Hi, I'm Subham Das from Odisha. I'm passionate about software development and learning Java, Python, and frontend technologies.
 This is one of my beginner Java GUI projects to showcase desktop app development using core Java.
-
+</pre>
