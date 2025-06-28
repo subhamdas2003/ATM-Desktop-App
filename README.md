@@ -19,8 +19,9 @@ A Java-based desktop application that simulates an ATM machine, using a simple g
 4.Modular structure (separate classes for logic and UI)
 
 🛠️ Project Structure
-
-ATM-Desktop-App/
+<br>
+ATM-Desktop-App
+<br/>
 ├── ATMApp.jar            // ✅ Runnable file
 ├── pin.txt               // 🔐 Stores current PIN
 ├── balance.txt           // 💰 Stores current balance
